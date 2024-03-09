@@ -8,7 +8,7 @@ This project comprises a presentation page that transitions automatically to the
 Presentation Page: Displays an initial presentation page before transitioning to the login page.
 Automatically moves to the login page after a 5-second delay.
 Login Page: An interface that allows users to log in with their credentials.
-Signup Pages:Users can navigate to the signup pages from the login page. Interactive signup forms for account creation. Error handling for input validation.
+Signup Pages: Users can navigate to the signup pages from the login page. Interactive signup forms for account creation. Error handling for input validation.
 
 ## Project Structure
 Images: All images are stored in the img2 folder.

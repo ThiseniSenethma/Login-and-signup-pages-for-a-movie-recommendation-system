@@ -13,7 +13,7 @@ Signup Pages: Users can navigate to the signup pages from the login page. Intera
 ## Project Structure
 Images: All images are stored in the img2 folder.
 CSS: Cascading Style Sheets (CSS) are stored in the css folder.
-JavaScript: JavaScript files are located in the scripts folder.
+JavaScript: JavaScript files are located in the script folder.
 
 ## License
 This project is licensed under the MIT License.
